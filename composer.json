@@ -1,0 +1,15 @@
+{
+    "name": "weida/oss-core",
+    "autoload": {
+        "psr-4": {
+            "Weida\\OssCore\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Sgenmi",
+            "email": "sgenmi@gmail.com"
+        }
+    ],
+    "require": {}
+}
